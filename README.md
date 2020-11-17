@@ -17,4 +17,4 @@ Last Edit : 17.11.2020
 My first serious project (as I believe)
 License: MIT License
 
-Thank you for visiting this project :) :fa-heart:
+Thank you for visiting this project :)
